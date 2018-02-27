@@ -1,0 +1,13 @@
+body {
+    background-color: #3399ff;
+}
+
+p.left {
+    text-align: left;
+}
+p.center {
+    text-align: center;
+}
+p.right {
+    text-align: right;
+}
